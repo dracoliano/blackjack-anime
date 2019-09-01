@@ -1,0 +1,72 @@
+{
+    "cards" :  [{
+        "id": 1,
+        "value": "1",
+        "card": "A"
+    },{
+        "id": 2,
+        "value": "2",
+        "card": "2"
+    },{
+        "id": 3,
+        "value": "3",
+        "card": "3"
+    },{
+        "id": 4,
+        "value": "4",
+        "card": "4"
+    },{
+        "id": 5,
+        "value": "5",
+        "card": "5"
+    },{
+        "id": 6,
+        "value": "6",
+        "card": "6"
+    },{
+        "id": 7,
+        "value": "7",
+        "card": "7"
+    },{
+        "id": 8,
+        "value": "8",
+        "card": "8"
+    },{
+        "id": 9,
+        "value": "9",
+        "card": "9"
+    },{
+        "id": 10,
+        "value": "10",
+        "card": "10"
+    },{
+        "id": 11,
+        "value": "10",
+        "card": "J"
+    },{
+        "id": 12,
+        "value": "10",
+        "card": "K"
+    },{
+        "id": 13,
+        "value": "10",
+        "card": "Q"
+    }],
+    "naipes": [{
+        "id": 1,
+        "naipe": "Diamond",
+        "symbol": "♦"
+    },{
+        "id": 2,
+        "naipe": "Spade",
+        "symbol":"♠"
+    },{
+        "id": 3,
+        "naipe": "Heart",
+        "symbol":"♥"
+    },{
+        "id": 4,
+        "naipe": "Club",
+        "symbol":"♣"
+    }]
+}
