@@ -1,0 +1,83 @@
+
+ul{
+  display: flex;
+  width: 80vw;
+  margin: 0 auto;
+  justify-content: center;
+
+}
+li{
+  display: inline-block;
+  margin-right: -1.5rem;
+}
+.card{
+  width: 8rem;
+  height: 197.44px;
+  background: papayawhip;
+  border-radius:4px;
+  animation: pulse 1.2s infinite;
+  margin: 0 auto;
+  animation-direction: alternate;
+  -webkit-animation-name: pulse;
+  animation-name: pulse;
+}
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-transform: scale(1);
+    -webkit-filter: brightness(100%);
+  }
+  100% {
+    -webkit-transform: scale(1.1);
+    -webkit-filter: brightness(100%);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    filter: brightness(90%);
+  }
+  100% {
+    transform: scale(0.95);
+    filter: brightness(130%);
+  }
+}
+
+.card-top>p{
+  font-size: 1.4rem;
+  margin-left: 6.5px;
+  height:20px;
+  line-height: 2.4rem;
+  font-weight: 600;
+}
+.card-bottom>p{
+  font-size: 1.4rem;
+  margin-left: 6.2rem;
+  margin-top: -1rem;
+  height:20px;
+  font-weight: 600;
+
+}
+.card-top >.symbol{
+  font-size:3rem;
+  margin-top: -0.5rem;
+  height:20px;
+}
+.card-bottom >.symbol{
+  font-size:2.5rem;
+  margin-top:4.4rem;
+  height:20px;
+}
+#burst{
+  border-radius: 100%;
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  top: 70vh;
+  bottom: 0;
+  right: 2rem;
+  font-size: 1rem;
+  border: none;
+  background-color: #c20065;
+  font-weight: bold;
+}
