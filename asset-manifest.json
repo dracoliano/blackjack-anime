@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/blackjack-anime/static/css/main.8ea9ae91.chunk.css",
+    "main.js": "/blackjack-anime/static/js/main.4dc2c5be.chunk.js",
+    "main.js.map": "/blackjack-anime/static/js/main.4dc2c5be.chunk.js.map",
+    "runtime~main.js": "/blackjack-anime/static/js/runtime~main.c7868f93.js",
+    "runtime~main.js.map": "/blackjack-anime/static/js/runtime~main.c7868f93.js.map",
+    "static/js/2.28501896.chunk.js": "/blackjack-anime/static/js/2.28501896.chunk.js",
+    "static/js/2.28501896.chunk.js.map": "/blackjack-anime/static/js/2.28501896.chunk.js.map",
+    "index.html": "/blackjack-anime/index.html",
+    "precache-manifest.8ac18c8f750fe33fff2631635ae73ae5.js": "/blackjack-anime/precache-manifest.8ac18c8f750fe33fff2631635ae73ae5.js",
+    "service-worker.js": "/blackjack-anime/service-worker.js",
+    "static/css/main.8ea9ae91.chunk.css.map": "/blackjack-anime/static/css/main.8ea9ae91.chunk.css.map",
+    "static/media/jokerClub.png": "/blackjack-anime/static/media/jokerClub.21bf9479.png",
+    "static/media/jokerDiamond.png": "/blackjack-anime/static/media/jokerDiamond.e61f18ed.png",
+    "static/media/jokerHeart.png": "/blackjack-anime/static/media/jokerHeart.c69bef89.png",
+    "static/media/jokerSpade.png": "/blackjack-anime/static/media/jokerSpade.a80f88f5.png",
+    "static/media/kingClub.png": "/blackjack-anime/static/media/kingClub.36a48afa.png",
+    "static/media/kingDiamond.png": "/blackjack-anime/static/media/kingDiamond.bf4046ea.png",
+    "static/media/kingHeart.png": "/blackjack-anime/static/media/kingHeart.8aabe81e.png",
+    "static/media/kingSpade.png": "/blackjack-anime/static/media/kingSpade.09ab2daf.png",
+    "static/media/music.mp3": "/blackjack-anime/static/media/music.30c695e1.mp3",
+    "static/media/push.wav": "/blackjack-anime/static/media/push.3c6987ff.wav",
+    "static/media/queenClub.png": "/blackjack-anime/static/media/queenClub.8a8d265a.png",
+    "static/media/queenDiamond.png": "/blackjack-anime/static/media/queenDiamond.303ead8a.png",
+    "static/media/queenHeart.png": "/blackjack-anime/static/media/queenHeart.e2b8f02c.png",
+    "static/media/queenSpade.png": "/blackjack-anime/static/media/queenSpade.b51ee9d6.png",
+    "static/media/verso.png": "/blackjack-anime/static/media/verso.32ffd0cb.png",
+    "static/media/wallpaper.png": "/blackjack-anime/static/media/wallpaper.40bdd0ee.png"
+  }
+}
